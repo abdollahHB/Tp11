@@ -147,7 +147,4 @@ http://localhost:8082/api/comptes
 ### Autre capture d'écran
 ![Autre capture](attachments/7.png)
 
-## Auteur
-Abdel
 
----
